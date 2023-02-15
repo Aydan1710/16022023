@@ -1,0 +1,14 @@
+/Users/elsenebdulhuseynli/Desktop/16022023/16022023/bin/Debug/netcoreapp3.1/16022023
+/Users/elsenebdulhuseynli/Desktop/16022023/16022023/bin/Debug/netcoreapp3.1/16022023.deps.json
+/Users/elsenebdulhuseynli/Desktop/16022023/16022023/bin/Debug/netcoreapp3.1/16022023.runtimeconfig.json
+/Users/elsenebdulhuseynli/Desktop/16022023/16022023/bin/Debug/netcoreapp3.1/16022023.runtimeconfig.dev.json
+/Users/elsenebdulhuseynli/Desktop/16022023/16022023/bin/Debug/netcoreapp3.1/16022023.dll
+/Users/elsenebdulhuseynli/Desktop/16022023/16022023/bin/Debug/netcoreapp3.1/16022023.pdb
+/Users/elsenebdulhuseynli/Desktop/16022023/16022023/obj/Debug/netcoreapp3.1/16022023.csproj.AssemblyReference.cache
+/Users/elsenebdulhuseynli/Desktop/16022023/16022023/obj/Debug/netcoreapp3.1/16022023.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elsenebdulhuseynli/Desktop/16022023/16022023/obj/Debug/netcoreapp3.1/16022023.AssemblyInfoInputs.cache
+/Users/elsenebdulhuseynli/Desktop/16022023/16022023/obj/Debug/netcoreapp3.1/16022023.AssemblyInfo.cs
+/Users/elsenebdulhuseynli/Desktop/16022023/16022023/obj/Debug/netcoreapp3.1/16022023.csproj.CoreCompileInputs.cache
+/Users/elsenebdulhuseynli/Desktop/16022023/16022023/obj/Debug/netcoreapp3.1/16022023.dll
+/Users/elsenebdulhuseynli/Desktop/16022023/16022023/obj/Debug/netcoreapp3.1/16022023.pdb
+/Users/elsenebdulhuseynli/Desktop/16022023/16022023/obj/Debug/netcoreapp3.1/16022023.genruntimeconfig.cache
